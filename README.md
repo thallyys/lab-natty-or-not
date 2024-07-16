@@ -20,23 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+AI's e a sua evolução
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Apenas alguns diferencias sobre as IAs
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+GPT Chat e Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tarefa muito simples, apenas solicitei a criação da imagem e rapidamente ja ficou pronta
 
-## 🚀 Resultados
+## 🚀 Resultados!
+
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![_0b0de939-fa71-4b4a-834f-2caa8ed5e4b6](https://github.com/user-attachments/assets/c4556fdb-00d7-4729-ae52-6267df00f094)
 
 ### Exemplos e Insigths
 
